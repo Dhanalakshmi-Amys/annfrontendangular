@@ -1,0 +1,46 @@
+[
+	{
+		"productId": 1,
+		"productName": "Basket ball",
+		"productCode": "TAB-120",
+		"description": "16GB, White",
+		"price": 450,
+		"imageUrl": "assets/imgs/apple_ipad_mini.jpg",
+		"manufacturer": "Adidas",
+		"ostype": "iOS",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Foot ball",
+		"productCode": "TAB-124",
+		"description": "Black and White",
+		"price": 600,
+		"imageUrl": "assets/imgs/apple_ipad_mini.jpg",
+		"manufacturer": "Adidas",
+		"ostype": "iOS",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "Cricket Ball",
+		"productCode": "TAB-125",
+		"description": "8GB, Gold",
+		"price": 550,
+		"imageUrl": "assets/imgs/apple_ipad_mini.jpg",
+		"manufacturer": "Adidas",
+		"ostype": "Android",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "Volley Ball",
+		"productCode": "TAB-126",
+		"description": "8GB, Black",
+		"price": 425,
+		"imageUrl": "assets/imgs/apple_ipad_mini.jpg",
+		"manufacturer": "Adidas",
+		"ostype": "Android",
+		"rating": 3
+	}
+]
